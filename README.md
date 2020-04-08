@@ -13,6 +13,8 @@ A palindrome is a string that reads the same forwards as backwards. For example,
    git clone https://github.com/aibenStunner/palindrome-Validator.git
    cd palindrome-Validator
 ```
+2. Open documentation to view installation instructions.
+  https://kivy.org/doc/stable/gettingstarted/installation.html
 
 ## Usage :computer:
 
